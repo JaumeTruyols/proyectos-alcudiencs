@@ -6,6 +6,6 @@ import tailwind from "@astrojs/tailwind";
 export default defineConfig({
   integrations: [tailwind()],
   /*output: 'server',*/
-  site: 'https://github.com/JaumeTruyols/jaumetruyols.github.io.git',
+  site: 'https://jaumetruyols.github.io/',
   base: '/books',
 });
