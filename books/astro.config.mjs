@@ -1,11 +1,9 @@
 import { defineConfig } from 'astro/config';
-
 import tailwind from "@astrojs/tailwind";
+
 
 // https://astro.build/config
 export default defineConfig({
-  integrations: [tailwind()],
-  /*output: 'server',*/
-  site: 'https://jaumetruyols.github.io/',
-  base: '/books',
+  output: 'server',
+  integrations: [tailwind()]
 });
