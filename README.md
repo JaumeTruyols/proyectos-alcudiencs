@@ -7,3 +7,9 @@ proyectos para veranear
 
 - Link a la carpeta "books" del proyecto: [Carpeta de books](./books)
 - Link a "index.astro" dentro de la carpeta "books": [Archivo index de books](books/src/pages/index.astro)
+
+## Proyecto 2:
+### Descripción:
+**Este proyecto consiste en una proyecto que utilizamos node.js para crear un servidor y mostrar una página web y Strapi para crear una base de datos.**
+
+- Link a la carpeta "proyecto2" del proyecto: [Carpeta de proyecto2](./node+strapi)
