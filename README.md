@@ -10,6 +10,6 @@ proyectos para veranear
 
 ## Proyecto 2:
 ### Descripción:
-**Este proyecto consiste en una proyecto que utilizamos node.js para crear un servidor y mostrar una página web y Strapi para crear una base de datos.**
+**Este proyecto consiste en una proyecto que utilizamos next.js, tailwind css y Strapi para crear una base de datos.**
 
 - Link a la carpeta "proyecto2" del proyecto: [Carpeta de proyecto2](./node+strapi)
